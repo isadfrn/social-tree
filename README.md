@@ -4,9 +4,7 @@
 ![Repository size](https://img.shields.io/github/repo-size/isadfrn/social-tree?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/isadfrn/social-tree?style=flat-square)
 
-## Content language
-
-- English
+![A page with icons and links](./assets/img/demo.gif)
 
 ## About
 
